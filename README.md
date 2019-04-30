@@ -4,15 +4,12 @@
 A modified version of the street racing game sourced from https://github.com/Microsoft/Imagine_street-racing
 
 The game is a 3D street racing game where the player must avoid the cars and obstacles on the road.
-The player scores points when avoiding these obstacles. There are two versions of the game:\
+The player scores points when avoiding these obstacles. There are two versions of the game:
 * Avoiding cars
+	* In the first version of the game (avoiding cars) roadblocks are transparent. Hitting them does not affect your score.
+		However, hitting cars does affect your score.
 * Avoiding both cars and roadblocks
-\
-However, it does affect your score if you hit the cars.
-In the first version of the game (avoiding cars) roadblocks are transparent. Hitting them does not affect your score.
-However, hitting cars does affect your score.\
-\
-In the second version of the game (avoiding cars and roadblocks), hitting both the roadblocks and the cars affect your score.
+	* In the second version of the game (avoiding cars and roadblocks), hitting both the roadblocks and the cars affect your score.
 
 ## Running the Game ##
 To run the game using unity, please ensure you have installed Unity on your PC (2017
