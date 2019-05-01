@@ -11,6 +11,8 @@ The player scores points when avoiding these obstacles. There are two versions o
 * Avoiding both cars and roadblocks
 	* In the second version of the game (avoiding cars and roadblocks), hitting both the roadblocks and the cars affect your score.
 
+![Alt text](Images/Capture.PNG?raw=true "Gameplay")
+
 ## Running the Game ##
 To run the game using unity, please ensure you have installed Unity on your PC (2017
 versions or higher).\
@@ -27,11 +29,9 @@ GPU: Graphics card with DX10 (shader model 4.0) capabilities.
 4. Select the play button at the top of the window.
 
 ## Controls ##
+
 Action  	  	| Controls
 --------------- | -------------
 Move Left 	  	| Left Keyboard arrow or 'A'
 Move Right	  	| Right keyboard arrow or 'D'
 
-<!---
-![Alt text](Images/Capture.PNG?raw=true "Gameplay")
--->
