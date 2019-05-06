@@ -1,4 +1,0 @@
-sceneSetups:
-- path: assets/Scenes/StartInitialiseParticipant.unity
-  isLoaded: 1
-  isActive: 1
