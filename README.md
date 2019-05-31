@@ -3,14 +3,8 @@
 ## Overview ##
 A modified version of the street racing game sourced from https://github.com/Microsoft/Imagine_street-racing
 
-The game is a 3D street racing game where the player must avoid the cars and obstacles on the road.
-The player scores points when avoiding these obstacles. There are two versions of the game:
-* Avoiding cars
-	* In the first version of the game (avoiding cars) roadblocks are transparent. Hitting them does not affect your score.
-		However, hitting cars does affect your score.
-* Avoiding both cars and roadblocks
-	* In the second version of the game (avoiding cars and roadblocks), hitting both the roadblocks and the cars affect your score.
-
+The game is a 3D street racing game where the player must avoid the obstacles on the road.
+The player scores points when avoiding these obstacles. 
 ![Alt text](Images/Capture.PNG?raw=true "Gameplay")
 
 ## Running the Game ##
@@ -23,10 +17,7 @@ GPU: Graphics card with DX10 (shader model 4.0) capabilities.
 
 1. Run Unity
 2. Select ‘Open’
-3. Navigate to the Unity Folder. You select and open either Unity Projects:
-	* Racing game - avoiding cars
-	* Racing game - avoiding cars and roadblocks 
-4. Select the play button at the top of the window.
+3. Navigate to the Unity Folder. Select the play button at the top of the window.
 
 ## Controls ##
 
