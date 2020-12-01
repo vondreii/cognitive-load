@@ -1,4 +1,4 @@
-# Modified Street Racing Game #
+# cognitive-load
 
 ## Overview ##
 A modified version of the street racing game sourced from https://github.com/Microsoft/Imagine_street-racing
