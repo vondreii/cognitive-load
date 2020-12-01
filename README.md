@@ -17,7 +17,7 @@ GPU: Graphics card with DX10 (shader model 4.0) capabilities.
 
 1. Run Unity
 2. Select ‘Open’
-3. Navigate to the Unity Folder. Select the play button at the top of the window.
+3. Navigate to the folder cognitive-load/Racing game. Select the play button at the top of the window.
 
 ## Controls ##
 
