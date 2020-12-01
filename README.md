@@ -5,6 +5,7 @@ A modified version of the street racing game sourced from https://github.com/Mic
 
 The game is a 3D street racing game where the player must avoid the obstacles on the road.
 The player scores points when avoiding these obstacles. 
+
 ![Alt text](Images/Capture.PNG?raw=true "Gameplay")
 
 ## Running the Game ##
