@@ -1,6 +1,9 @@
 # cognitive-load
 
 ## About ##
+
+This was made as part of a uni research project, aimed to adjust the game's difficulty based on the player's cognitive load (how much info the player's brain can store/process in real time).
+
 A modified version of the street racing game sourced from https://github.com/Microsoft/Imagine_street-racing
 
 The game is a 3D street racing game where the player must avoid the obstacles on the road.
