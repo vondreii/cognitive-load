@@ -1,6 +1,6 @@
 # cognitive-load
 
-## Overview ##
+## About ##
 A modified version of the street racing game sourced from https://github.com/Microsoft/Imagine_street-racing
 
 The game is a 3D street racing game where the player must avoid the obstacles on the road.
@@ -8,7 +8,7 @@ The player scores points when avoiding these obstacles.
 
 ![Alt text](Images/Capture.PNG?raw=true "Gameplay")
 
-## Running the Game ##
+## To Run ##
 To run the game using unity, please ensure you have installed Unity on your PC (2017
 versions or higher).\
 \
@@ -31,7 +31,6 @@ GPU: Graphics card with DX10 (shader model 4.0) capabilities.
 2. **v2 -** Avoid cars and roadblocks.
 3. **v3 -** Avoid cars only, game difficulty dynamically changes based on the player's cognitive load.
 4. **v4 -** Avoid cars only and roadblocks, game difficulty dynamically changes based on the player's cognitive load.
-
 
 ## Controls ##
 
