@@ -42,3 +42,5 @@ Action  	  	| Controls
 Move Left 	  	| Left Keyboard arrow or 'A'
 Move Right	  	| Right keyboard arrow or 'D'
 
+Author - Sharlene Von Drehnen
+
